@@ -14,8 +14,7 @@ This project is a full-stack portfolio website featuring a dynamic front end dev
 - **BasicAuthAttribute**: Adds a layer of basic authentication for securing API endpoints.
 - **Logger**: For logging API requests and errors.
 ### Frontend
-- **Angular**: Develops the client interface, making it a responsive single-page application (SPA).
-- **Bootstrap**: Styles the frontend for a responsive and modern design.
+
 ## Features
 - **Project and Experience Display**: Sections to showcase projects and experiences, easily managed through the API.
 - **Clean and Modular Codebase**: Following Clean Architecture and Angular’s modular structure for scalable development.
