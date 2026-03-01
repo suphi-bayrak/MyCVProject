@@ -56,7 +56,7 @@ namespace CVProject.Core.Attributes
         }
         private bool IsAuthorized(string username, string password)
         {
-            return username == "eymen" && password == "Cv0Project@!";
+            return username == "suphi" && password == "Cv0Project@!";
         }
         private void ReturnUnauthorizedResult(AuthorizationFilterContext context, string message)
         {
